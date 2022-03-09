@@ -1,16 +1,21 @@
-### Hi there 👋
+# Welcome to my profile 👋
 
-<!--
-**HandyS11/HandyS11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HandyS11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+> This summary only includes public repositories!
+
+*I also have skills in:*
+- Shell (bash)
+- SQL, SQL+, PL/SQL
+- Ruby
+- PHP 7
+- JavaScript
+
+
+## Studies
+
+- I am a French student from the school [IUT Informatique d'Aubière](https://www.uca.fr/formation/nos-formations/catalogue-des-formations/but-informatique-clermont) were I am currently preparing a [DUT](https://www.iut.fr/formations-et-diplomes/les-specialites/dut-informatique.html).
+- I am currently looking for a work-study program for a [professional bachelor's degree](https://www.onisep.fr/Ressources/Univers-Formation/Formations/Post-bac/licence-pro-mention-metiers-de-l-informatique-conception-developpement-et-test-de-logiciels), which I plan to do next year.
