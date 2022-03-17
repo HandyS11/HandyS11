@@ -11,8 +11,8 @@
 - Shell (bash)
 - SQL, SQL+, PL/SQL
 - Ruby
-- PHP 7
-- JavaScript
+- PHP
+- JavaScript/TypeScript
 
 
 ## Studies
