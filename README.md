@@ -9,10 +9,8 @@
 
 *I also have skills in:*
 - Shell (bash)
-- SQL, SQL+, PL/SQL
 - Ruby
-- PHP
-- JavaScript/TypeScript
+- C++
 
 
 ## Studies
