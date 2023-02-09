@@ -3,15 +3,7 @@
 
 ## Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HandyS11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-> This summary only includes public repositories!
-
-*I also have skills in:*
-- Shell (bash)
-- Ruby
-- C++
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HandyS11&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Studies
 
