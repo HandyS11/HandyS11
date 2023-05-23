@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=30&duration=2000&pause=10000&color=000000&center=true&vCenter=true&width=600&font=Fira%20Code&lines=%F0%9F%91%8B+Hi,+I'm+Valentin+Clergue+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93"/>
+  <img src="https://readme-typing-svg.demolab.com?size=30&duration=2000&pause=10000&color=A0A0A0&center=true&vCenter=true&width=600&font=Fira%20Code&lines=%F0%9F%91%8B+Hi,+I'm+Valentin+Clergue+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&center=true&width=640&color=000000&vCenter=true&pause=1000&duration=3000&size=22&lines=Full-stack%20mobile%20developer;Passionate%20about%20software%20engineering;And%20also%20an%20harcore%20multiplayer%20gamer"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&center=true&width=640&color=A0A0A0&vCenter=true&pause=1000&duration=3000&size=22&lines=Full-stack%20mobile%20developer;Passionate%20about%20software%20engineering;And%20also%20an%20harcore%20multiplayer%20gamer"/>
 </p>
 
 <p align="center">
@@ -20,8 +20,6 @@
 * 💻 I am a French student from the school [IUT Informatique d'Aubière](https://www.uca.fr/formation/nos-formations/catalogue-des-formations/but-informatique-clermont) were I am currently preparing a [Licence Pro. Mobile](https://iut.uca.fr/formations/lp-developpement-dapplications-pour-plateformes-mobiles) which is a [professional bachelor's degree](https://www.onisep.fr/Ressources/Univers-Formation/Formations/Post-bac/licence-pro-mention-metiers-de-l-informatique-conception-developpement-et-test-de-logiciels).
 * 💼 I do this formation in [alternance](https://www.onisep.fr/cap-vers-l-emploi/alternance) (that's means I work for a company and also in school) for [ABCD Nutrition Group](https://abcdnutrition.com/fr/).
 
----
-
 ## 📊 Profile Statistics
 
 ### 🧮 Langages & Git
@@ -33,13 +31,9 @@
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=HandyS11&theme=onedark&row=1&margin-w=22&no-bg=true)
 
----
-
 ## 👨‍💻 Work in progress
 
 ### To be continued..
-
----
 
 ## 📫 Contact Me
 
