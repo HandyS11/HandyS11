@@ -22,7 +22,7 @@
 
 ## 📊 Profile Statistics
 
-### 🧮 Langages & Git
+### 🧮 Languages & GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HandyS11&layout=compact&langs_count=10&size_weight=0&theme=transparent&count_weight=0.9&hide=dockerfile,shell,html,css,objective-c,hack)
 ![Handy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HandyS11&count_private=true&show_icons=true&theme=transparent)
@@ -31,9 +31,37 @@
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=HandyS11&theme=onedark&row=1&margin-w=22&no-bg=true)
 
-## 👨‍💻 Work in progress
+## 👨‍💻 Technologies
 
-### To be continued..
+> Some icons might be missing, this list is not exhaustive.
+
+### OS
+
+![ide](https://skillicons.dev/icons?i=linux)
+
+### IDE
+
+![ide](https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio)
+
+### Languages
+
+![languages](https://skillicons.dev/icons?i=cs,java,js,ts,swift,kotlin,dart,c,cpp,python,ruby,php,bash&perline=7)
+
+### Front (only)
+
+![front](https://skillicons.dev/icons?i=html,css,md)
+
+### Frameworks
+
+![frameworks](https://skillicons.dev/icons?i=dotnet,flutter,react,adonis,bootstrap,qt)   
+
+### Database
+
+![database](https://skillicons.dev/icons?i=sqlite,mysql,mongo)
+
+### Others
+
+![others](https://skillicons.dev/icons?i=postman,docker,arduino,raspberrypi,git,github,gitlab&perline=7)   
 
 ## 📫 Contact Me
 
