@@ -17,8 +17,8 @@
 
 <h2>🚀 About Me <img align="right" alt="Watchers" src="https://custom-icon-badges.demolab.com/github/watchers/HandyS11/HandyS11?logo=eye&style=social&logoColor=black&color=orange"></h2>
 
-* 💻 I am a French student from the school [IUT Informatique d'Aubière](https://www.uca.fr/formation/nos-formations/catalogue-des-formations/but-informatique-clermont) were I am currently preparing a [Licence Pro. Mobile](https://iut.uca.fr/formations/lp-developpement-dapplications-pour-plateformes-mobiles) which is a [professional bachelor's degree](https://www.onisep.fr/Ressources/Univers-Formation/Formations/Post-bac/licence-pro-mention-metiers-de-l-informatique-conception-developpement-et-test-de-logiciels).
-* 💼 I do this formation in [alternance](https://www.onisep.fr/cap-vers-l-emploi/alternance) (that's means I work for a company and also in school) for [ABCD Nutrition Group](https://abcdnutrition.com/fr/).
+* 💻 French student from the school [IUT Informatique d'Aubière](https://www.uca.fr/formation/nos-formations/catalogue-des-formations/but-informatique-clermont) were I am currently preparing a [Licence Pro. Mobile](https://iut.uca.fr/formations/lp-developpement-dapplications-pour-plateformes-mobiles) which is a [professional bachelor's degree](https://www.onisep.fr/Ressources/Univers-Formation/Formations/Post-bac/licence-pro-mention-metiers-de-l-informatique-conception-developpement-et-test-de-logiciels).
+* 💼 I do this formation in [alternance](https://www.onisep.fr/cap-vers-l-emploi/alternance) (It means I work for a company and also at school) for [ABCD Nutrition Group](https://abcdnutrition.com/fr/).
 
 ## 📊 Profile Statistics
 
