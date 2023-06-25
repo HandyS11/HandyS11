@@ -24,7 +24,7 @@
 
 ### 🧮 Languages & GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HandyS11&layout=compact&langs_count=10&size_weight=0&theme=transparent&count_weight=0.9&hide=dockerfile,shell,html,css,objective-c,hack)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HandyS11&layout=compact&langs_count=10&size_weight=0&theme=transparent&count_weight=0.9&hide=dockerfile,shell,html,css,objective-c,hack,qmake)
 ![Handy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HandyS11&count_private=true&show_icons=true&theme=transparent)
 
 ### 🏆 Trophies
