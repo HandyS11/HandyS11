@@ -27,7 +27,6 @@
 ### 🧮 Languages & GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=HandyS11&layout=compact&langs_count=12&size_weight=0&theme=transparent&count_weight=0.9&count_private=true&hide=dockerfile,shell,html,css,php,objective-c,hack,qmake,batchfile,qml)
-
 ![Handy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HandyS11&show_icons=true&theme=transparent&number_format=short&include_all_commits=true&show=prs_merged)
 
 ### 📈 Time Spent Coding
