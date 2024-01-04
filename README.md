@@ -15,45 +15,46 @@
     <img alt="followers" title="Total number of views for my profile" src="https://komarev.com/ghpvc/?username=HandyS11&style=for-the-badge&logo=person-add"/></a>
 </p>
 
-<h2>🚀 About Me <img align="right" alt="Watchers" src="https://custom-icon-badges.demolab.com/github/watchers/HandyS11/HandyS11?logo=eye&style=social&logoColor=black&color=orange"></h2>
+## 🚀 About Me 
 
-* 💻 French student from the school [IUT Informatique d'Aubière](https://www.uca.fr/formation/nos-formations/catalogue-des-formations/but-informatique-clermont) were I am currently preparing a [Licence Pro. Mobile](https://iut.uca.fr/formations/lp-developpement-dapplications-pour-plateformes-mobiles) which is a [professional bachelor's degree](https://www.onisep.fr/Ressources/Univers-Formation/Formations/Post-bac/licence-pro-mention-metiers-de-l-informatique-conception-developpement-et-test-de-logiciels).
-* 💼 I do this formation in [alternance](https://www.onisep.fr/cap-vers-l-emploi/alternance) (It means I work for a company and also at school) for [ABCD Nutrition Group](https://abcdnutrition.com/fr/).
+* 💻 French enjoyer of [.NET](https://learn.microsoft.com/en-us/dotnet/) techonologies and mobile development.
+* 💼 Junior [.NET](https://learn.microsoft.com/en-us/dotnet/) developer for [Sogeti (part of Capgemini)](https://www.sogeti.com).
+
+* 🏫 Graduated from [IUT Informatique d'Aubière](https://www.uca.fr/formation/nos-formations/catalogue-des-formations/but-informatique-clermont) where I obtained a [DUT](https://fr.wikipedia.org/wiki/Diplôme_universitaire_de_technologie) followed by a [Licence Pro. Mobile](https://iut.uca.fr/formations/lp-developpement-dapplications-pour-plateformes-mobiles) carried out on a work-study basis for [ABCD Nutrition Groupe](https://abcdnutrition.com/fr/).
 
 ## 📊 Profile Statistics
 
 ### 🧮 Languages & GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HandyS11&layout=compact&langs_count=10&size_weight=0&theme=transparent&count_weight=0.9&hide=dockerfile,shell,html,css,objective-c,hack,qmake)
-![Handy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HandyS11&count_private=true&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=HandyS11&layout=compact&langs_count=12&size_weight=0&theme=transparent&count_weight=0.9&count_private=true&hide=dockerfile,shell,html,css,php,objective-c,hack,qmake,batchfile,qml)
 
-### 🏆 Trophies
+![Handy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HandyS11&show_icons=true&theme=transparent&number_format=short&include_all_commits=true&show=prs_merged)
+
+### 📈 Time Spent Coding
+
+![Handy's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=018cd6b5-7e82-45dd-b495-2262304c8002?layout=compact&langs_count=12)
+
+### 🏆 Github Trophies
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=HandyS11&theme=onedark&row=1&margin-w=22&no-bg=true)
 
 ## 👨‍💻 Technologies
 
-> Some icons might be missing, this list is not exhaustive.
-
 ### OS
 
-![ide](https://skillicons.dev/icons?i=linux)
+![ide](https://skillicons.dev/icons?i=linux,windows,android)
 
 ### IDE
 
 ![ide](https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio)
 
-### Languages
+### Languages (main)
 
-![languages](https://skillicons.dev/icons?i=cs,java,js,ts,swift,kotlin,dart,c,cpp,python,ruby,php,bash&perline=7)
-
-### Front (only)
-
-![front](https://skillicons.dev/icons?i=html,css,md)
+![languages](https://skillicons.dev/icons?i=cs,java,ts,js,python)
 
 ### Frameworks
 
-![frameworks](https://skillicons.dev/icons?i=dotnet,flutter,react,adonis,bootstrap,qt)   
+![frameworks](https://skillicons.dev/icons?i=dotnet,flutter,react,adonis,bootstrap)   
 
 ### Database
 
@@ -61,10 +62,10 @@
 
 ### Others
 
-![others](https://skillicons.dev/icons?i=postman,docker,arduino,raspberrypi,git,github,gitlab&perline=7)   
+![others](https://skillicons.dev/icons?i=postman,docker,github,md)   
 
 ## 📫 Contact Me
 
-![Discord](https://img.shields.io/badge/-HandyS11%231333-blue?logo=Discord&logoColor=white&style=for-the-badge)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/valentin-clergue-004320222/)
+![Discord](https://img.shields.io/badge/-@handys11-blue?logo=Discord&logoColor=white&style=for-the-badge)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/valentin-clergue)
 [![Mail](https://img.shields.io/badge/-Mail-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge)](mailto:valentin-clergue@orange.fr)
