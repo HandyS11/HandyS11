@@ -31,7 +31,8 @@
 
 ### 📈 Time Spent Coding
 
-![Handy's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=018cd6b5-7e82-45dd-b495-2262304c8002?layout=compact&langs_count=12)
+[![wakatime](https://wakatime.com/badge/user/018cd6b5-7e82-45dd-b495-2262304c8002.svg)](https://wakatime.com/@HandyS11)
+![Handy's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HandyS11&layout=compact&langs_count=12)
 
 ### 🏆 Github Trophies
 
