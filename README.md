@@ -18,7 +18,7 @@
 ## 🚀 About Me 
 
 * 💻 French enjoyer of [.NET](https://learn.microsoft.com/en-us/dotnet/) techonologies and mobile development.
-* 💼 [.NET](https://learn.microsoft.com/en-us/dotnet/) developer for a big french company.
+* 💼 [.NET](https://learn.microsoft.com/en-us/dotnet/) developer for [Sogeti (part of Capgemini)](https://www.sogeti.com).
 * 🏫 Graduated from [IUT Informatique d'Aubière](https://www.uca.fr/formation/nos-formations/catalogue-des-formations/but-informatique-clermont) where I obtained a [DUT](https://fr.wikipedia.org/wiki/Diplôme_universitaire_de_technologie) followed by a [Licence Pro. Mobile](https://iut.uca.fr/formations/lp-developpement-dapplications-pour-plateformes-mobiles) carried out on a work-study basis for [ABCD Nutrition Groupe](https://abcdnutrition.com/fr/).
 
 ## 📊 Profile Statistics
