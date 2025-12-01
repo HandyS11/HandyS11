@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&center=true&width=640&color=A0A0A0&vCenter=true&pause=1000&duration=3000&size=22&lines=.NET%20backend%20developer;Passionate%20about%20software%20engineering;And%20also%20an%20harcore%20multiplayer%20gamer"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&center=true&width=640&color=A0A0A0&vCenter=true&pause=1000&duration=3000&size=22&lines=.NET%20backend%20developer;Passionate%20about%20software%20engineering;"/>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ## 🚀 About
 
 * 💻 French enjoyer of [.NET](https://learn.microsoft.com/en-us/dotnet/) techonologies and mobile development.
-* 💼 [.NET](https://learn.microsoft.com/en-us/dotnet/) developer for [Sogeti (part of Capgemini)](https://www.sogeti.com).
+* 💼 [.NET](https://learn.microsoft.com/en-us/dotnet/) Software Engineer for [Sogeti (part of Capgemini)](https://www.sogeti.com).
 * 🏫 Graduated from [IUT Informatique d'Aubière](https://www.uca.fr/formation/nos-formations/catalogue-des-formations/but-informatique-clermont) where I obtained a [DUT](https://fr.wikipedia.org/wiki/Diplôme_universitaire_de_technologie) followed by a [Licence Pro. Mobile](https://iut.uca.fr/formations/lp-developpement-dapplications-pour-plateformes-mobiles) carried out on a work-study basis for [ABCD Nutrition Groupe](https://abcdnutrition.com).
 
 ## 📊 Statistics
@@ -36,21 +36,20 @@
 
 [![wakatime](https://wakatime.com/badge/user/018cd6b5-7e82-45dd-b495-2262304c8002.svg)](https://wakatime.com/@HandyS11)
 
-![Handy's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HandyS11&layout=compact&custom_title=WakaTime%20Stats%20(since%2005/01/2024)&langs_count=20&hide=binary,other,ini,csproj,solution%20file,shproj)
+![Handy's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HandyS11&layout=compact&custom_title=WakaTime%20Stats%20(since%202024)&langs_count=20&hide=binary,other,ini,csproj,solution%20file,shproj)
 
 ## 👨‍💻 Technologies
 
 | Type | Technos |
 | -- | -- |
-| OS | ![os](https://skillicons.dev/icons?i=windows,ubuntu,debian) |
-| IDE | ![ide](https://skillicons.dev/icons?i=vscode,visualstudio,rider,idea,androidstudio) |
-| Languages | ![languages](https://skillicons.dev/icons?i=cs,java,ts,js,python) |
-| Frameworks | ![frameworks](https://skillicons.dev/icons?i=dotnet,flutter,react,adonis,bootstrap) |
-| Databases | ![database](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongo) |
-| Others | ![others](https://skillicons.dev/icons?i=md,docker,postman,azure,cloudflare,bash,github,gitlab,git&perline=5) |
+| OS | ![os](https://skillicons.dev/icons?i=windows,linux,apple) |
+| IDE | ![ide](https://skillicons.dev/icons?i=rider,vscode) |
+| Stack | ![languages](https://skillicons.dev/icons?i=cs,dotnet,maui,avalonia) |
+| DB | ![database](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongo) |
+| Others | ![others](https://skillicons.dev/icons?i=md,docker,azure,cloudflare,bash,github,gitlab,git&perline=5) |
 
 ## 📫 Contact
 
 ![Discord](https://img.shields.io/badge/@handys11-blue?logo=discord&logoColor=white&style=for-the-badge)
-[![Linkedin](https://img.shields.io/badge/linkedin-blue?logo=Llnkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/valentin-clergue)
+[![Linkedin](https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/valentin-clergue)
 [![Mail](https://img.shields.io/badge/Mail-blue?logo=gmail&logoColor=white&style=for-the-badge)](mailto:valentin-clergue@orange.fr)
