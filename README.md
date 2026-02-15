@@ -25,24 +25,24 @@
 
 ### 🧮 GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=HandyS11&layout=compact&langs_count=12&size_weight=0&theme=transparent&count_weight=0.9&count_private=true&hide=dockerfile,shell,html,css,php,objective-c,hack,qmake,batchfile,qml)
-![Handy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HandyS11&show_icons=true&theme=transparent&number_format=short&include_all_commits=true&show=prs_merged)
+![Top Langs](./generated/top-langs.svg)
+![Handy's GitHub stats](./generated/stats.svg)
 
 ### 🏆 Trophies
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=HandyS11&theme=onedark&row=1&margin-w=22&no-bg=true)
+![Github Trophy](./generated/trophy.svg)
 
 ### 📈 Time Spent Coding
 
 [![wakatime](https://wakatime.com/badge/user/018cd6b5-7e82-45dd-b495-2262304c8002.svg)](https://wakatime.com/@HandyS11)
 
-![Handy's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HandyS11&layout=compact&custom_title=WakaTime%20Stats%20(since%202024)&langs_count=20&hide=binary,other,ini,csproj,solution%20file,shproj)
+![Handy's WakaTime stats](./generated/wakatime.svg)
 
 ## 👨‍💻 Technologies
 
 | Type | Technos |
 | -- | -- |
-| OS | ![os](https://skillicons.dev/icons?i=windows,linux,apple) |
+| OS | ![os](https://skillicons.dev/icons?i=linux,apple,windows) |
 | IDE | ![ide](https://skillicons.dev/icons?i=rider,vscode) |
 | Stack | ![languages](https://skillicons.dev/icons?i=cs,dotnet,maui,avalonia) |
 | DB | ![database](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongo) |

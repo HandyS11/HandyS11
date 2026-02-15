@@ -1,0 +1,54 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Github Stats Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=HandyS11&show_icons=true&theme=onedark&number_format=short&include_all_commits=true&show=prs_merged&bg_color=00000000&hide_border=true
+          path: generated/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Top Languages Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=HandyS11&layout=compact&langs_count=12&size_weight=0&theme=onedark&count_weight=0.9&count_private=true&hide=dockerfile,shell,html,css,php,objective-c,hack,qmake,batchfile,qml&bg_color=00000000&hide_border=true
+          path: generated/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate WakaTime Stats Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: wakatime
+          options: username=HandyS11&layout=compact&custom_title=WakaTime%20Stats%20(since%202024)&langs_count=20&hide=binary,other,ini,csproj,solution%20file,shproj&theme=onedark&bg_color=00000000&hide_border=true
+          path: generated/wakatime.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate GitHub Trophies
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: HandyS11
+          output_path: generated/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add generated/*.svg
+          git commit -m "chore: update profile stats [skip ci]" || exit 0
+          git push
