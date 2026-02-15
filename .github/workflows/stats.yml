@@ -42,7 +42,9 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: HandyS11
-          output_path: generated/trophy.svg
+          file: generated/trophy.svg
+          theme: onedark
+          no-background: true
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push changes
