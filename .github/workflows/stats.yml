@@ -43,7 +43,7 @@ jobs:
         with:
           username: HandyS11
           file: generated/trophy.svg
-          theme: transparent
+          theme: onedark
           max-rows: 1
           max-cols: 7
           margin-width: 20
