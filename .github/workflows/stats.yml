@@ -26,7 +26,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=HandyS11&layout=compact&langs_count=12&size_weight=0&theme=transparent&count_weight=0.9&count_private=true&hide=dockerfile,shell,html,css,php,objective-c,hack,qmake,batchfile,qml
+          options: username=HandyS11&layout=compact&langs_count=12&size_weight=0&theme=transparent&count_weight=0.9&count_private=true&hide=dockerfile,shell,powershell,html,css,php,objective-c,hack,qmake,batchfile,qml
           path: generated/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -34,7 +34,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=HandyS11&layout=compact&custom_title=WakaTime%20Stats%20(since%202024)&langs_count=20&hide=binary,other,ini,csproj,solution%20file,shproj&theme=transparent
+          options: username=HandyS11&layout=compact&custom_title=WakaTime%20Stats%20(since%202024)&langs_count=20&hide=binary,other,ini,solution%20file,shproj&theme=transparent
           path: generated/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

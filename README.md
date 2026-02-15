@@ -40,13 +40,22 @@
 
 ## 👨‍💻 Technologies
 
-| Type | Technos |
+| Type | Technologies |
 | -- | -- |
-| OS | ![os](https://skillicons.dev/icons?i=linux,apple,windows) |
+| OS | ![os](https://skillicons.dev/icons?i=linux,apple,windows,android,ios) |
 | IDE | ![ide](https://skillicons.dev/icons?i=rider,vscode) |
-| Stack | ![languages](https://skillicons.dev/icons?i=cs,dotnet,maui,avalonia) |
+| Stack | ![stack](https://skillicons.dev/icons?i=cs,dotnet) |
 | DB | ![database](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongo) |
-| Others | ![others](https://skillicons.dev/icons?i=md,docker,azure,cloudflare,bash&perline=5) |
+| Others | ![others](https://skillicons.dev/icons?i=md,docker,bash,azure,cloudflare) |
+
+### 💠 .NET Ecosystem
+
+| Type | Technologies |
+| -- | -- |
+| Frameworks | [ASP.NET Core](https://learn.microsoft.com/aspnet/core) • [.NET MAUI](https://learn.microsoft.com/dotnet/maui) • [Avalonia UI](https://avaloniaui.net) • [Spectre.Console](https://spectreconsole.net) |
+| Libraries | [EF Core](https://learn.microsoft.com/ef/core) • [FluentValidation](https://docs.fluentvalidation.net) • [ModelContextProtocol](https://modelcontextprotocol.io) • [CommunityToolkit](https://learn.microsoft.com/dotnet/communitytoolkit/) • [Serilog](https://serilog.net) |
+| Testing | [xUnit](https://xunit.net) • [NUnit](https://nunit.org) • [MSTest](https://learn.microsoft.com/dotnet/core/testing/unit-testing-with-mstest) • [Reqnroll](https://reqnroll.net) • [NSubstitute](https://nsubstitute.github.io) • [Moq](https://github.com/devlooped/moq) • [NBomber](https://nbomber.com) |
+| Tools | [DocFX](https://dotnet.github.io/docfx/) |
 
 ## 📫 Contact
 
