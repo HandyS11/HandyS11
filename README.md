@@ -46,10 +46,18 @@
 | IDE | ![ide](https://skillicons.dev/icons?i=rider,vscode) |
 | Stack | ![languages](https://skillicons.dev/icons?i=cs,dotnet,maui,avalonia) |
 | DB | ![database](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongo) |
-| Others | ![others](https://skillicons.dev/icons?i=md,docker,azure,cloudflare,bash,github,gitlab,git&perline=5) |
+| Others | ![others](https://skillicons.dev/icons?i=md,docker,azure,cloudflare,bash&perline=5) |
 
 ## 📫 Contact
 
-![Discord](https://img.shields.io/badge/@handys11-blue?logo=discord&logoColor=white&style=for-the-badge)
-[![Linkedin](https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/valentin-clergue)
-[![Mail](https://img.shields.io/badge/Mail-blue?logo=gmail&logoColor=white&style=for-the-badge)](mailto:valentin-clergue@orange.fr)
+<p align="left">
+  <a href="https://linkedin.com/in/valentin-clergue" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="valentin-clergue" />
+  </a>
+  <a href="mailto:valentin-clergue@orange.fr">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="valentin-clergue@orange.fr" />
+  </a>
+  <a href="https://discord.com/users/handys11" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="@handys11" />
+  </a>
+</p>
