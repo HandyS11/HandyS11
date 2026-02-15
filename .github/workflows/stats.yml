@@ -18,7 +18,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=HandyS11&show_icons=true&theme=onedark&number_format=short&include_all_commits=true&show=prs_merged&bg_color=00000000&hide_border=true
+          options: username=HandyS11&show_icons=true&theme=transparent&number_format=short&include_all_commits=true&show=prs_merged&hide_border=true
           path: generated/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -26,7 +26,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=HandyS11&layout=compact&langs_count=12&size_weight=0&theme=onedark&count_weight=0.9&count_private=true&hide=dockerfile,shell,html,css,php,objective-c,hack,qmake,batchfile,qml&bg_color=00000000&hide_border=true
+          options: username=HandyS11&layout=compact&langs_count=12&size_weight=0&theme=transparent&count_weight=0.9&count_private=true&hide=dockerfile,shell,html,css,php,objective-c,hack,qmake,batchfile,qml&hide_border=true
           path: generated/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -34,7 +34,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=HandyS11&layout=compact&custom_title=WakaTime%20Stats%20(since%202024)&langs_count=20&hide=binary,other,ini,csproj,solution%20file,shproj&theme=onedark&bg_color=00000000&hide_border=true
+          options: username=HandyS11&layout=compact&custom_title=WakaTime%20Stats%20(since%202024)&langs_count=20&hide=binary,other,ini,csproj,solution%20file,shproj&theme=transparent&hide_border=true
           path: generated/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -44,6 +44,8 @@ jobs:
           username: HandyS11
           file: generated/trophy.svg
           theme: onedark
+          max-rows: 1
+          margin-width: 22
           no-background: true
           token: ${{ secrets.GITHUB_TOKEN }}
 
