@@ -53,7 +53,7 @@
 | Type | Technologies |
 | -- | -- |
 | Frameworks | [ASP.NET Core](https://learn.microsoft.com/aspnet/core) • [.NET MAUI](https://learn.microsoft.com/dotnet/maui) • [Avalonia UI](https://avaloniaui.net) • [Spectre.Console](https://spectreconsole.net) |
-| Libraries | [EF Core](https://learn.microsoft.com/ef/core) • [FluentValidation](https://docs.fluentvalidation.net) • [ModelContextProtocol](https://modelcontextprotocol.io) • [CommunityToolkit](https://learn.microsoft.com/dotnet/communitytoolkit/) • [Serilog](https://serilog.net) |
+| Libraries | [EF Core](https://learn.microsoft.com/ef/core) • [FluentValidation](https://docs.fluentvalidation.net) • [ModelContextProtocol](https://modelcontextprotocol.io) • [Semantic Kernel](https://learn.microsoft.com/semantic-kernel/) • [CommunityToolkit](https://learn.microsoft.com/dotnet/communitytoolkit/) • [Serilog](https://serilog.net) |
 | Testing | [xUnit](https://xunit.net) • [NUnit](https://nunit.org) • [MSTest](https://learn.microsoft.com/dotnet/core/testing/unit-testing-with-mstest) • [Reqnroll](https://reqnroll.net) • [NSubstitute](https://nsubstitute.github.io) • [Moq](https://github.com/devlooped/moq) • [NBomber](https://nbomber.com) |
 | Tools | [DocFX](https://dotnet.github.io/docfx/) |
 
