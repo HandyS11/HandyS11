@@ -279,26 +279,6 @@
             data-testid="lang-progress"
             x="459.42"
             y="0"
-            width="0.9764999999999999"
-            height="8"
-            fill="#858585"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="460.3965"
-            y="0"
-            width="0.9764999999999999"
-            height="8"
-            fill="#F44D27"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="461.373"
-            y="0"
             width="0.8835"
             height="8"
             fill="#858585"
@@ -307,7 +287,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="462.2565"
+            x="460.30350000000004"
             y="0"
             width="0.7905000000000001"
             height="8"
@@ -317,11 +297,31 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="463.047"
+            x="461.09400000000005"
             y="0"
             width="0.7905000000000001"
             height="8"
             fill="#858585"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="461.88450000000006"
+            y="0"
+            width="0.7440000000000001"
+            height="8"
+            fill="#858585"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="462.6285000000001"
+            y="0"
+            width="0.6510000000000001"
+            height="8"
+            fill="#4F5D95"
           />
         
       
@@ -433,35 +433,35 @@
     <g transform="translate(230, 200)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Project file properties - 1 hr 38 mins
-      </text>
-    </g>
-  
-    <g transform="translate(25, 225)">
-      <circle cx="5" cy="6" r="5" fill="#F44D27" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Git Config - 1 hr 37 mins
-      </text>
-    </g>
-  
-    <g transform="translate(230, 225)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         CSHTML - 1 hr 27 mins
       </text>
     </g>
   
-    <g transform="translate(25, 250)">
+    <g transform="translate(25, 225)">
       <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Kotlin - 1 hr 17 mins
       </text>
     </g>
   
-    <g transform="translate(230, 250)">
+    <g transform="translate(230, 225)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Text - 1 hr 16 mins
+      </text>
+    </g>
+  
+    <g transform="translate(25, 250)">
+      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Docker - 1 hr 11 mins
+      </text>
+    </g>
+  
+    <g transform="translate(230, 250)">
+      <circle cx="5" cy="6" r="5" fill="#4F5D95" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        PHP - 1 hr 4 mins
       </text>
     </g>
   
