@@ -26,7 +26,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=HandyS11&layout=compact&langs_count=12&size_weight=0&theme=transparent&count_weight=0.9&count_private=true&hide=dockerfile,shell,powershell,html,css,php,objective-c,hack,qmake,batchfile,qml,groovy
+          options: username=HandyS11&layout=compact&langs_count=12&theme=transparent&count_private=true&hide=dockerfile,powershell,html,css,php,objective-c,hack,qmake,batchfile,qml,groovy
           path: generated/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
