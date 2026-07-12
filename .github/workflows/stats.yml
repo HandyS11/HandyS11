@@ -12,10 +12,10 @@ jobs:
       contents: write
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Generate Github Stats Card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@v2
         with:
           card: stats
           options: username=HandyS11&show_icons=true&theme=transparent&number_format=short&include_all_commits=true&show=prs_merged
@@ -23,7 +23,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Top Languages Card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=HandyS11&layout=compact&langs_count=12&theme=transparent&count_private=true&hide=dockerfile,powershell,html,css,php,objective-c,hack,qmake,batchfile,qml,groovy
@@ -31,7 +31,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate WakaTime Stats Card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@v2
         with:
           card: wakatime
           options: username=HandyS11&layout=compact&custom_title=WakaTime%20Stats%20(since%202024)&langs_count=20&hide=binary,other,ini,solution%20file,shproj,git%20config,project%20file%20properties&theme=transparent
