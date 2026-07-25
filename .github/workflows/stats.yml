@@ -38,19 +38,43 @@ jobs:
           path: generated/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate GitHub Trophies
-        # Fork of Erik-Donath/github-profile-trophy@feature/generate-svg (ryo-ma PR #414),
-        # merged with ryo-ma/github-profile-trophy master for the GraphQL stargazerCount fix (PR #454).
-        uses: HandyS11/github-profile-trophy@e2ed1b3061b23e016403e0b51858e5d3e3f5be8c
+      # The trophy card has no public API left (the Vercel instance returns 402
+      # DEPLOYMENT_DISABLED), so run ryo-ma's own service locally and query it
+      # with the query parameters documented in its README.
+      - name: Checkout Trophy Generator
+        uses: actions/checkout@v7
         with:
-          username: HandyS11
-          file: generated/trophy.svg
-          theme: onedark
-          max-rows: 1
-          max-cols: 7
-          margin-width: 20
-          no-background: true
-          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ryo-ma/github-profile-trophy
+          ref: e3c89df995e92e67cdd4b2acaab9d974583dc1f7
+          path: .trophy-src
+
+      - name: Setup Deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: Generate GitHub Trophies
+        working-directory: .trophy-src
+        env:
+          GITHUB_TOKEN1: ${{ secrets.GITHUB_TOKEN }}
+          PORT: "8080"
+        run: |
+          deno run -A main.ts &
+          server_pid=$!
+          trap 'kill "${server_pid}"' EXIT
+
+          for _ in $(seq 1 60); do
+            if curl -s -o /dev/null "http://localhost:${PORT}/"; then break; fi
+            sleep 1
+          done
+
+          # Write to a scratch file first: --fail-with-body still writes the error
+          # page, so only a validated SVG is allowed to replace the committed one.
+          curl -sS --fail-with-body -o "${RUNNER_TEMP}/trophy.svg" \
+            "http://localhost:${PORT}/?username=HandyS11&theme=onedark&row=1&column=7&margin-w=20&no-bg=true"
+
+          grep -q "<svg" "${RUNNER_TEMP}/trophy.svg"
+          mv "${RUNNER_TEMP}/trophy.svg" "${GITHUB_WORKSPACE}/generated/trophy.svg"
 
       - name: Commit and Push changes
         run: |
