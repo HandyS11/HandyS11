@@ -39,7 +39,9 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate GitHub Trophies
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        # Fork of Erik-Donath/github-profile-trophy@feature/generate-svg (ryo-ma PR #414),
+        # merged with ryo-ma/github-profile-trophy master for the GraphQL stargazerCount fix (PR #454).
+        uses: HandyS11/github-profile-trophy@e2ed1b3061b23e016403e0b51858e5d3e3f5be8c
         with:
           username: HandyS11
           file: generated/trophy.svg
