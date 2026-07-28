@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Clergue Valentin's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 24, Total Commits  : 1832, Total PRs: 248, Total PRs Merged: 244, Total Issues: 10, Contributed to (last year): 4</desc>
+        <title id="titleId">Clergue Valentin&#39;s GitHub Stats, Rank: B+</title>
+        <desc id="descId">Total Stars Earned: 24, Total Commits  : 1835, Total PRs: 251, Total PRs Merged: 247, Total Issues: 10, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 96.93513971195033;
+        stroke-dashoffset: 96.82846656259926;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Clergue Valentin's GitHub Stats</text>
+      >Clergue Valentin&#39;s GitHub Stats</text>
     </g>
       </g>
     
@@ -192,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >248</text>
+      >251</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged"
-      >244</text>
+      >247</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">

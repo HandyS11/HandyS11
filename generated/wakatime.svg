@@ -131,7 +131,7 @@
             y="0"
             width="303.5055"
             height="8"
-            fill="#178600"
+            fill="#7355dd"
           />
         
           <rect
@@ -326,7 +326,7 @@
         
       
     <g transform="translate(25, 25)">
-      <circle cx="5" cy="6" r="5" fill="#178600" />
+      <circle cx="5" cy="6" r="5" fill="#7355dd" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         C# - 638 hrs 10 mins
       </text>
