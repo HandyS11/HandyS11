@@ -6,19 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&center=true&width=640&color=A0A0A0&vCenter=true&pause=1000&duration=3000&size=22&lines=.NET%20backend%20developer;Passionate%20about%20software%20engineering;"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/HandyS11?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/HandyS11?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/HandyS11?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/HandyS11?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="#">
-    <img alt="followers" title="Total number of views for my profile" src="https://komarev.com/ghpvc/?username=HandyS11&style=for-the-badge&logo=person-add"/></a>
-</p>
-
 ## 🚀 About
 
-* 💻 French enjoyer of [.NET](https://learn.microsoft.com/en-us/dotnet/) techonologies and mobile development.
-* 💼 [.NET](https://learn.microsoft.com/en-us/dotnet/) Software Engineer for [Sogeti (part of Capgemini)](https://www.sogeti.com).
+* 💻 Enjoyer of [.NET](https://learn.microsoft.com/en-us/dotnet/) technologies and backend engineering.
+* 💼 Software Engineer for [Sogeti (part of Capgemini)](https://www.sogeti.com).
 * 🏫 Graduated from [IUT Informatique d'Aubière](https://www.uca.fr/formation/nos-formations/catalogue-des-formations/but-informatique-clermont) where I obtained a [DUT](https://fr.wikipedia.org/wiki/Diplôme_universitaire_de_technologie) followed by a [Licence Pro. Mobile](https://iut.uca.fr/formations/lp-developpement-dapplications-pour-plateformes-mobiles) carried out on a work-study basis for [ABCD Nutrition Groupe](https://abcdnutrition.com).
 
 ## 📊 Statistics
@@ -52,9 +43,9 @@
 
 | Type | Technologies |
 | -- | -- |
-| Frameworks | [ASP.NET Core](https://learn.microsoft.com/aspnet/core) • [.NET MAUI](https://learn.microsoft.com/dotnet/maui) • [Avalonia UI](https://avaloniaui.net) • [Spectre.Console](https://spectreconsole.net) |
+| Frameworks | [ASP.NET Core](https://learn.microsoft.com/aspnet/core) • [.NET Aspire](https://learn.microsoft.com/dotnet/aspire) • [.NET MAUI](https://learn.microsoft.com/dotnet/maui) • [Avalonia UI](https://avaloniaui.net) • [Spectre.Console](https://spectreconsole.net) |
 | Libraries | [EF Core](https://learn.microsoft.com/ef/core) • [FluentValidation](https://docs.fluentvalidation.net) • [ModelContextProtocol](https://modelcontextprotocol.io) • [Semantic Kernel](https://learn.microsoft.com/semantic-kernel/) • [Agent Framework](https://learn.microsoft.com/agent-framework) • [CommunityToolkit](https://learn.microsoft.com/dotnet/communitytoolkit/) • [Serilog](https://serilog.net) |
-| Testing | [xUnit](https://xunit.net) • [NUnit](https://nunit.org) • [MSTest](https://learn.microsoft.com/dotnet/core/testing/unit-testing-with-mstest) • [Reqnroll](https://reqnroll.net) • [NSubstitute](https://nsubstitute.github.io) • [Moq](https://github.com/devlooped/moq) • [NBomber](https://nbomber.com) |
+| Testing | [xUnit](https://xunit.net) • [NUnit](https://nunit.org) • [MSTest](https://learn.microsoft.com/dotnet/core/testing/unit-testing-with-mstest) • [Reqnroll](https://reqnroll.net) • [NSubstitute](https://nsubstitute.github.io) • [Moq](https://github.com/devlooped/moq) • [NBomber](https://nbomber.com) • [Stryker.NET](https://stryker-mutator.io/docs/stryker-net/introduction/) |
 | Tools | [DocFX](https://dotnet.github.io/docfx/) • [Resharper](https://www.jetbrains.com/resharper/) |
 
 ## 📫 Contact
