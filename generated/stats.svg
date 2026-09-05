@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Clergue Valentin&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 30, Total Commits  : 1862, Total PRs: 280, Total PRs Merged: 273, Total Issues: 10, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 31, Total Commits  : 1862, Total PRs: 280, Total PRs Merged: 273, Total Issues: 10, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 90.6592061627033;
+        stroke-dashoffset: 90.0127879212239;
       }
     }
   
@@ -162,7 +162,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >30</text>
+      >31</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
